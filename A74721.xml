@@ -1,0 +1,527 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief answer to six syllogistical arguments brought by Mr. Clark, minister of Bennet-Finck, London: against astrologers, and astrologie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74721</idno>
+            <idno type="STC">Thomason E2131_2</idno>
+            <idno type="STC">ESTC R208325</idno>
+            <idno type="EEBO-CITATION">99867283</idno>
+            <idno type="PROQUEST">99867283</idno>
+            <idno type="VID">170582</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170582)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 243:E2131[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief answer to six syllogistical arguments brought by Mr. Clark, minister of Bennet-Finck, London: against astrologers, and astrologie.</title>
+               </titleStmt>
+               <extent>[2], 83-128 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Speed, at the sign of the Printing-Press in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 115 is a separate dated title page, reading: Gassendus's arguments against astrologie, which the silly antagonists so much boast of, retorted and refuted: proving the worth &amp; truth of astrology from his own nativity, which himself gave to the learned Morinus late of France.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:170582:1" rendition="simple:additions"/>
+                  <p>A Brief ANSWER To SIX SYLLOGISTICAL ARGUMENTS Brought by Mr. <hi>CLARK,</hi> Miniſter of <hi>Bennet-Finck,</hi> London: Againſt ASTROLOGERS, AND ASTROLOGIE.</p>
+                  <p>
+                     <hi>LONDON:</hi> Printed for <hi>Samuel Speed,</hi> at the ſign of the Printing-Preſs in <hi>Pauls</hi> Church-yard. 1660.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:170582:2"/>
+                  <pb n="83" facs="tcp:170582:2"/>
+                  <head>A Brief ANSWER To Six Syllogiſtical ARGUMENTS.</head>
+                  <p>IT is a Proverb as true as antient, That the Tale of one ſide may ſeem good, till the Truth of the other ſide appear. But it is but reaſon in a man to forbear his Cenſure, until he ſeriouſly have conſidered the Pleas that both produce. For according to that of the Tragoedian of old:
+<q>
+                        <lg>
+                           <l>
+                              <hi>Qui ſtatuit aliquid parte inaudita alterâ,</hi>
+                           </l>
+                           <l>
+                              <hi>Aequum licet ſtatuerit haud aequus fuit.</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>He that, on part unheard, a Doom did paſs,</l>
+                           <l>His Doom (though equal were) unequal was.</l>
+                        </lg>
+                     </q>
+                  </p>
+                  <pb n="84" facs="tcp:170582:3"/>
+                  <p>Now for the better information of the Reader, I ſhall inſert the Argu<g ref="char:EOLhyphen"/>ments of Mr. <hi>Clark</hi> at large, and then reſpond to them; that thereby he may underſtand the occaſion and nature of the Difference, and the Reaſons thereof the readier.</p>
+                  <list type="syllogism">
+                     <item>
+                        <label>1 Argum.</label> 
+                        <hi>That which the Word of God condemns as a grand Offence, is not to be practiſed, countenanced or to<g ref="char:EOLhyphen"/>lerated.</hi>
+                     </item>
+                     <item>
+                        <hi>But Divining by the Stars is condemn<g ref="char:EOLhyphen"/>ed by Gods Word.</hi>
+                     </item>
+                     <item>Ergo.</item>
+                  </list>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer, by denying the Minor: My Reaſon hereof, is, (by ad<g ref="char:EOLhyphen"/>ding a Negative to the Aſſumption) Divining by the Stars is not condemned by Gods word.</p>
+                  <list type="syllogism">
+                     <item>If Divining by the Stars (to uſe the Phraſe of our Antagoniſt) were condemned by Gods Word, we ſhould find it therein condemned.</item>
+                     <item>But therein it is not to be found con<g ref="char:EOLhyphen"/>demned.</item>
+                     <item>
+                        <hi>Ergo,</hi> it is not condemned by it at all.</item>
+                  </list>
+                  <pb n="85" facs="tcp:170582:3"/>
+                  <p>That it is not condemned by it all, will moſt clearly appear, upon the Exa<g ref="char:EOLhyphen"/>mination of the Catalogue of Scriptures Mr. <hi>Clark</hi> citeth in favour of his Minor Propoſition, <hi>viz.</hi>
+                  </p>
+                  <p n="1">1. He urgeth <hi>Deut.</hi> 18.10, 11. But in this Text is not Aſtrology ſo much as once concerned; as the learned <hi>Adye</hi> hath largely and learnedly proved, in his <hi>Candle in the dark;</hi> a Book of ſingular worth, and worthy the peruſal of all ſorts of perſons. Suppoſe ſome perſons out of their hatred to Aſtrologers and Aſtrologie, have turned <hi>Megnonen,</hi> (the Hebrew word there uſed) <hi>Planetarius;</hi> yet perſons thereby ſignifi'd are not ſuch that lawfully ſtudy or uſe the Science of Aſtrologie, but ſuch as abuſe it. And were I now diſpoſed, it were an eaſie matter to bring Mr. <hi>Cl.</hi> within the com<g ref="char:EOLhyphen"/>paſs of the word in that Text; yet he would be very loath to be termed a <hi>Pla<g ref="char:EOLhyphen"/>netarian;</hi> although he hath abuſed A<g ref="char:EOLhyphen"/>ſtrologie and Aſtrologers, not a little.</p>
+                  <q>— <hi>Facinus, quos inquinat, Equat.</hi>
+                  </q>
+                  <q>A Crime makes equal, where it doth pollute.</q>
+                  <pb n="86" facs="tcp:170582:4"/>
+                  <p>But, <hi>Abuſus non tollit uſum.</hi> The a<g ref="char:EOLhyphen"/>buſe of a thing doth not abrogate or im<g ref="char:EOLhyphen"/>peach the lawful uſe thereof.</p>
+                  <q>
+                     <l>'Cauſe Epicures abuſe themſelves with Wine,</l>
+                     <l>Shall we neglect the Vertue of the Vine?</l>
+                  </q>
+                  <p>If ſome perſons under pretence of Divining by the Stars, abuſe not onely themſelves, but others, ſhall the honeſt and laudable uſe thereof be therefore re<g ref="char:EOLhyphen"/>jected? If an impudent ignorant fel<g ref="char:EOLhyphen"/>low ſhall profanely pretend to Pulpit it, and boaſt a gift therein above Mr. <hi>Cl.</hi> would Mr. <hi>Cl.</hi> (I wonder) judge me rea<g ref="char:EOLhyphen"/>ſonable, if I thereby ſhould take occaſi<g ref="char:EOLhyphen"/>on to blaſt the credit of (what my Soul rejoyces in) Divinity? If Mr. <hi>Cl.</hi> prove his Argument no better by his other Texts in the Catologue, then he hath by this, we ſhall eaſily conclude him inca<g ref="char:EOLhyphen"/>pable of doing it at all.</p>
+                  <p>To trip at the Threſhold, is (by old Sawes) pronounced to be a bad ſigne, and to bode but ſmall good. <hi>Principiis omen ineſſe—ſolet.</hi> Beginnings are deemed ominous. <hi>Iſidore</hi> affirms, <hi>Pel. l.</hi> 2. <hi>Epiſt.</hi>
+                     <pb n="87" facs="tcp:170582:4"/>229. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>(i.)</hi> He that in the be<g ref="char:EOLhyphen"/>ginning ſwerveth from the truth, will in his proceedings, roll further from it, and end at laſt with ſome ſhameful Cataſtro<g ref="char:EOLhyphen"/>phe or other. Mr. <hi>Cl.</hi> therefore failing thus in the firſt Scripture he citeth, pre<g ref="char:EOLhyphen"/>ſages or predicts (though he be no A<g ref="char:EOLhyphen"/>ſtrologer) how much of ſubſtantial proof we may expect to find in the reſt, that he muſters up for his purpoſe.</p>
+                  <p>The ſecond Text he hits at the poor Aſtrologers head, is <hi>Lev.</hi> 20.6. which (in truth) favours him no more then the for<g ref="char:EOLhyphen"/>mer, unleſs he can prove an Aſtrologer and a Witch to be all one. The Word in the Text (which he moſt inſiſteth on) is <hi>Ariolos,</hi> which implies the impoſtu<g ref="char:EOLhyphen"/>riſme of an hollow feigned voice (and not any thing of Aſtrolgie, as Mr. <hi>Clark</hi> would bear the world in hand) that Witches and Deceivers uſed in their Oracling Divinations, by harring in their Throats. <hi>Vide Adyes</hi> Candle, <hi>&amp;c.</hi> pag. 77. and <hi>Plut. de Def. Orac.</hi> I hope Mr. <hi>Cl.</hi> will not ſay, That any man practiſing Aſtrology, <hi>Quatenus</hi> an Aſtrologer, u<g ref="char:EOLhyphen"/>ſeth
+<pb n="88" facs="tcp:170582:5"/>any ſuch practice: the which un<g ref="char:EOLhyphen"/>leſs he do, this Scripture favoureth him no more then the firſt he brought.</p>
+                  <p>The third-Text he cites is <hi>Iſa.</hi> 2.6. But this no more proveth the truth of his Argument, then the worth of the Turks <hi>Alcoran.</hi> I admit that he findes <hi>Praeſti<g ref="char:EOLhyphen"/>giatores</hi> in the Text, which he corruptly tranſlates <hi>Soothſayers;</hi> forgetting (the mean while) that the word properly in<g ref="char:EOLhyphen"/>terpreted, ſignifies <hi>Juglers,</hi> viz. ſuch as deceive by cunning or ſleight of hand. But doth not Mr. <hi>C.</hi> adde rather to the honour of Aſtrologers, then any way de-detract therefrom, when he ſtiles them <hi>Soothſayers?</hi> or doth he believe that Soothſaying imports any other thing then the ſpeaking of truth? You ſee here how officious M. <hi>C.</hi> is, to make that ſpeak againſt Aſtrologers, which hath neither tongue, nor will, to do ſo.</p>
+                  <q>
+                     <lg>
+                        <l>
+                           <hi>Et ſi nullus erit pulvis, tamen excute nullum:</hi>
+                        </l>
+                        <l>
+                           <hi>Quaelibet officio cauſa ſit apta tuo.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>And though there be no Duſt, yet caſt off none:</l>
+                        <l>To be officious, finde occaſion.</l>
+                     </lg>
+                  </q>
+                  <pb n="89" facs="tcp:170582:5"/>
+                  <p>The fourth Text is, <hi>Iſa.</hi> 47.13, 14. where, in the Original, that, which Mr. <hi>Cl.</hi> turns <hi>Aſtrologers,</hi> is, <hi>Viewers of the Heavens.</hi> But we know, that there are others that view the Heavens beſide Aſtrologers, <hi>viz.</hi> Aſtronomers, Naviga<g ref="char:EOLhyphen"/>tors, Natural Philoſophers, Shepherds, <hi>&amp;c.</hi> But there is in this Text another Bug-bear, that affrights Mr. <hi>Clark, viz. Monthly Prognoſticators.</hi> The Hebrew ſaith,—<hi>That give knowledge concern<g ref="char:EOLhyphen"/>ing the Months.</hi> But I would demand of Mr. <hi>Cl.</hi> whether it be unlawful to make a Prognoſtication, to ſet down therein, according to the common courſe of Nature, what is moſt conſiderable in the whole yeer? It is clearly evident by this Text, that the Prophet blameth not thoſe that view the Heavens, or ſtudy the Stars, and thence give knowledge concerning the months; but reprehen<g ref="char:EOLhyphen"/>ded ſuch as were abuſers of theſe Studies, &amp; thoſe that uſed to exalt the Stars, <hi>&amp;c.</hi> above, or at leaſt endeavoured to make them equal Cauſes with Him, whom Divines call <hi>Cauſa Cauſarum,</hi> (and all good Chriſtians acknowledge Him ſo to be) the Cauſe of all Cauſes, even GOD
+<pb n="90" facs="tcp:170582:6"/>Himſelf. But I have before ſhewed, that the abuſe of a thing is no good Ar<g ref="char:EOLhyphen"/>gument to abrogate the uſe thereof. Is it good or reaſonable to ſay, That the profeſſion of Phyſick is unlawful, becauſe ſome Quacks, by an impudent practiſing it, do abuſe and diſhonour that commen<g ref="char:EOLhyphen"/>dable Science?</p>
+                  <p>His fifth Text in Order, for the ſup<g ref="char:EOLhyphen"/>port of this halting Minor, is, <hi>Jer.</hi> 10.2. But the learned Dr. <hi>Mayer,</hi> in his Com<g ref="char:EOLhyphen"/>mentary upon that Text, profeſſeth that Aſtrologie or Aſtrologers are not ſo much as once meant by the Prophet. It had been therefore requiſite for Mr. <hi>Cl.</hi> to have refuted that learned Divine, be<g ref="char:EOLhyphen"/>fore he had obtruded his own Gloſs thereon, upon the world, for currant and authentick. But leſt Mr. <hi>Cl.</hi> ſhould cavil at Dr. <hi>Mayers</hi> authority (being but a ſingle Perſon) I ſhall inſtance to him in ſome others, who ſeal the ſame Opini<g ref="char:EOLhyphen"/>on with this learned Doctor, <hi>viz. St. Hie<g ref="char:EOLhyphen"/>rom, Lyra,</hi> &amp;c. as is at large to be ſeen by their Commentaries on the place it ſelf: and for further ſatisfaction of ſuch as have not the opportunity of rea<g ref="char:EOLhyphen"/>ding ſuch Volumes, I refer them to the
+<pb n="91" facs="tcp:170582:6"/>excellent Work of that incomparably learned Knight, <hi>Sir Christopher Heydon, viz.</hi> His Defence of Aſtrologie, fol. 25, 26.</p>
+                  <p>The ſixth Text he brings to keep his Minor from falling, is, <hi>Iſa.</hi> 44.25. which friends it no more then any of the other five. For unleſs Mr. <hi>Cl.</hi> can prove, that true Aſtrologie hath in it any lying To<g ref="char:EOLhyphen"/>kens, that any lying Tokens are grounds in the ſaid Art or Science, it ſerves his purpoſe no more then if he had brought in the room of it, that Text in <hi>Eccl.</hi> 22.12. <hi>Seven dayes do men mourn for him that is dead; but the Lamentation for the fool and ungodly ſhould endure all the days of their life.</hi> It was a ſaying of <hi>Anti<g ref="char:EOLhyphen"/>philus,</hi> — <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, That Confidence was a good Sea-Captain. I am ſure 'tis an ill Logician in Mr. <hi>Cl.</hi> un<g ref="char:EOLhyphen"/>leſs he had more probable truth on his ſide.</p>
+                  <p>The ſeventh Scripture-Text Mr. <hi>C.</hi> underſets his Minor with, is, <hi>Dan.</hi> 2.2. which is of the ſame ſtamp for his pur<g ref="char:EOLhyphen"/>poſe, with all the reſt before cited. For the Hebrew word, which is there ren<g ref="char:EOLhyphen"/>dered <hi>Aſtrologers,</hi> (if we may credit the
+<pb n="92" facs="tcp:170582:7"/>learned <hi>Shindler</hi>) ſignifies a Philoſopher, an Aſtronomer and Phyſitian. Rabbi <hi>Abraham</hi> (as ſaith the learned Mr. <hi>Reeve</hi>) expounds it ſo likewiſe. And <hi>A<g ref="char:EOLhyphen"/>venarius</hi> obſerveth, that <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, wiſe, a<g ref="char:EOLhyphen"/>greeth to the ſame. Now then if to be a Philoſopher, <hi>&amp;c.</hi> be an evil, Mr. <hi>Cl.</hi> may make the more of this Text: but ſurely he cannot be ſo weak as to offer at ſuch a monſtrous concluſion.</p>
+                  <p>The eighth and laſt Text he hales in, to the aſſiſtance of his Poſition, is <hi>Act.</hi> 19.18, 19, 20. which Scripture is as lit<g ref="char:EOLhyphen"/>tle beholding to him as any of the reſt, for their being brought to ſo little pur<g ref="char:EOLhyphen"/>poſe. If Mr. <hi>Cl.</hi> cannot prove, that a<g ref="char:EOLhyphen"/>mong the curious Arts there mentioned, —True Aſtrologie was one (and that I am ſure he will never be able to do) then is his citing of this text vain and frivolous.</p>
+                  <p>Thus you ſee the Mountain of <hi>Scrip<g ref="char:EOLhyphen"/>ture-proofs</hi> (which he had muſtered up in a catologue, preſuming Aſtrology there<g ref="char:EOLhyphen"/>in to be condemned) vaniſhed in a mo<g ref="char:EOLhyphen"/>ment: and Divining by the Stars, we have plainly ſhewn, is not condemned by Gods word, (which his Minor Propo<g ref="char:EOLhyphen"/>ſition
+<pb n="93" facs="tcp:170582:7"/>inſinuates) neither is it in it ſelf unlawful, notwithſtanding all the pains he hath taken to prove it ſo.</p>
+                  <p>If this will not yet put him out of doubt, let him but peruſe the Church-Bible, printed <hi>Ann.</hi> 1540. where he may ſee (if he be not blinded with partiality and prejudice) that there is not any the leaſt mention made of either the words <hi>Aſtrologer</hi> or <hi>Aſtrologie;</hi> ſo far was the <hi>Holy Ghoſt</hi> from condemning either! nay, the very words rendered <hi>Aſtrolo<g ref="char:EOLhyphen"/>gers,</hi> and <hi>Astrologie,</hi> are in ſundry other Tranſlations otherwiſe interpreted. And ſo I paſs from M. <hi>Clark</hi>'s firſt Argument. I ſhall be briefer in the reſt, having an<g ref="char:EOLhyphen"/>ſwered his <hi>Scriptures</hi> here already.</p>
+                  <list type="syllogism">
+                     <item>
+                        <label>2 Argum.</label> 
+                        <hi>That Art whereby men aſ<g ref="char:EOLhyphen"/>ſume to themſelves what is peculiar unto God, must needs be ſinful, nei<g ref="char:EOLhyphen"/>ther to be practiſed, countenanced nor tolerated.</hi>
+                     </item>
+                     <item>
+                        <hi>But this is done by ſuch as take upon them to Divine of Events to Perſons and Nations by the Stars.</hi>
+                     </item>
+                     <item>
+                        <hi>Therefore.</hi>
+                     </item>
+                  </list>
+                  <pb n="94" facs="tcp:170582:8"/>
+                  <p>
+                     <hi>Reſp.</hi> I reſpond, by denying the Mi<g ref="char:EOLhyphen"/>nor.</p>
+                  <list type="syllogism">
+                     <item>For, thoſe that predict from the Stars, as remote and ſecond Cauſes, in<g ref="char:EOLhyphen"/>termeddle not with Gods Pecu<g ref="char:EOLhyphen"/>liar.</item>
+                     <item>But Aſtrologers do ſo, and Aſtrolo<g ref="char:EOLhyphen"/>gie teacheth them not otherwiſe.</item>
+                     <item>Therefore.</item>
+                  </list>
+                  <p>The Major needs no proof, as carry<g ref="char:EOLhyphen"/>ing ſo full a Demonſtration of Truth in the face of it. The Minor is ſufficient<g ref="char:EOLhyphen"/>ly proved by the writings of all Aſtrolo<g ref="char:EOLhyphen"/>gers: but in particular, I ſhall refer you to the learned Sir <hi>Christopher Heydon,</hi> fol. 400. <hi>He</hi> (ſaith this learned Knight) <hi>which ſeeketh God in his Glory, ſhall be oppreſſed with his Majesty. There is no<g ref="char:EOLhyphen"/>thing past or to come, with him, but all things are preſent unto him, as they depend upon his divine fore-ordinance, and pre<g ref="char:EOLhyphen"/>ſcience of all things that happen in the world, out of their cauſes. But as it hath pleaſed him to govern the ordinary courſe of Nature, by His</hi> SECOND CAUSES, <hi>and in</hi> THEM <hi>to reveal what he hath from Eternity appointed to effect by them; to know this, is not to enter into his ſecret
+<pb n="95" facs="tcp:170582:8"/>Judgement,</hi> (or peculiar) <hi>but more ef<g ref="char:EOLhyphen"/>fectually to judge, admire and contemplate the incomprehenſible providence of the Al<g ref="char:EOLhyphen"/>mighty; that hath thus coupled the Or<g ref="char:EOLhyphen"/>der of Cauſes with his own moſt free and Omnipotent Will,</hi> &amp;c. 2. Take the Au<g ref="char:EOLhyphen"/>thority of <hi>Hermes,</hi> who in the beginning of his <hi>Centiloqui,</hi> affirms,—<hi>Sol &amp; Luna, poſt Deum, Omnium viventium vita ſunt.</hi> That the Sun and Moon, next unto GOD, are the Life of all Things li<g ref="char:EOLhyphen"/>ving. Thus you ſee that Aſtrologers meddle not with Gods ſecrets; nor with the Luminaries or Stars at all, but by giving place to the Majeſty of the Al<g ref="char:EOLhyphen"/>mighty God in the firſt, and then they conſider their Natural ſignifications as ſecond Cauſes, as they are endued with Energie from God.</p>
+                  <list type="syllogism">
+                     <item>
+                        <label>3 Argum.</label> 
+                        <hi>That which draws the heart from God the Father, and Chriſt the Son, from conſidering the Works of the One, and heeding the Words of the Other, is an Evil not to be peacti<g ref="char:EOLhyphen"/>ſed, countenanced or tolerated.</hi>
+                     </item>
+                     <item>
+                        <hi>But Aſtrological Predictions draw from God and Chriſt.</hi>
+                     </item>
+                     <item>
+                        <hi>Therefore,</hi> &amp;c.</item>
+                  </list>
+                  <pb n="96" facs="tcp:170582:9"/>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer, —
+<q>
+                        <l>You plead for Truth, and yet you ſpeak beſide</l>
+                        <l>The Text of Truth: your Minor is deni'd.</l>
+                        <bibl>Quarls <hi>Shep. Orac.</hi>
+                        </bibl>
+                     </q>
+                  </p>
+                  <p>Aſtrological Predictions are ſo far from drawing from God and Chriſt, that they adde very much to the honour of Both: <hi>The Heavens declare the Glory of God,</hi> (ſaith Holy <hi>David</hi>) Pſal. 19.1. <hi>The inviſible power of the Deity is clearly ſeen by the things that are made,</hi> ſaith the ho<g ref="char:EOLhyphen"/>ly Apoſtle, <hi>Rom.</hi> 1.20. The Learned <hi>Ptolomy</hi> in the beginning of his <hi>Alma<g ref="char:EOLhyphen"/>geſt,</hi> affirms—<hi>Hanc unam Scientiam eſſe viam ac ſemitam, ad ſciendum Deum Al<g ref="char:EOLhyphen"/>tiſſimum.</hi> This one Science is the one<g ref="char:EOLhyphen"/>ly Way, and Path, to know the moſt HIGH GOD.</p>
+                  <p>Whence I argue:</p>
+                  <p>If Aſtrologie leads to the knowledge of the moſt High God, or declares the power of the Deity, it certain<g ref="char:EOLhyphen"/>ly cannot be thought (by any but Mr. <hi>Cl.</hi>) to draw from GOD and Chriſt.</p>
+                  <pb n="97" facs="tcp:170582:9"/>
+                  <p>That Aſtrologie doth ſo, is conſpicu<g ref="char:EOLhyphen"/>ouſly proved, both by the Prophet, Apoſtle, and <hi>Ptolomy.</hi>
+                  </p>
+                  <p>The learned Mr. <hi>Caryl,</hi> is ſo far from branding Aſtrologie for drawing from God or Chriſt, that in <hi>Vol.</hi> 3. <hi>fol.</hi> 221. he avers, <hi>It is our Duty to ſtudy the Hea<g ref="char:EOLhyphen"/>vens, and to be acquainted with the Stars.</hi> I will leave Mr. <hi>C.</hi> therefore to repent of this Minor, and proceed.</p>
+                  <list type="syllogism">
+                     <item>
+                        <label>4 Argum.</label> 
+                        <hi>That which is falſe, deluſive and uncertain, is not to be practiſed, countenanced or tolerated.</hi>
+                     </item>
+                     <item>
+                        <hi>But ſuch is fore-telling things by the Stars.</hi>
+                     </item>
+                     <item>
+                        <hi>Therefore,</hi> &amp;c.</item>
+                  </list>
+                  <p>
+                     <hi>Reſp.</hi> I deny the Minor, (for it is no kin to the truth at all) and argue againſt it, thus:</p>
+                  <list type="syllogism">
+                     <item>If fore-telling by the Stars were falſe, deluſive and uncertain, the Fates of particular Perſons, the variety of Seaſons, great Droughts, Sick<g ref="char:EOLhyphen"/>neſſes, Peace, Wars, Plenty or Scar<g ref="char:EOLhyphen"/>city, were not to be certainly pre<g ref="char:EOLhyphen"/>dicted.</item>
+                     <pb n="98" facs="tcp:170582:10"/>
+                     <item>But theſe things are certainly to be foretold by the Aſpects and Poſiti<g ref="char:EOLhyphen"/>ons of the Stars.</item>
+                     <item>
+                        <hi>Ergo,</hi> foretelling by the Stars is not falſe, deluſive, and uncertain; but certain, real and true.</item>
+                  </list>
+                  <p>
+                     <hi>Lucius Bellantius</hi> foretold the Death of <hi>Picus Mirandula,</hi> that great Anta<g ref="char:EOLhyphen"/>goniſt to Aſtrologie; who while he was writing againſt that Art, his own Death concurring, evinced it to be true, with<g ref="char:EOLhyphen"/>out further Argument. <hi>Zonarus</hi> re<g ref="char:EOLhyphen"/>ports that <hi>Julians</hi> death was foreſeen to a day. <hi>Gauricus</hi> forewarned <hi>Henry</hi> the Second, of <hi>France,</hi> of the 41 year of his age; and in the ſame year that Fa<g ref="char:EOLhyphen"/>mous King died. <hi>Spurina</hi> forewarns <hi>Caeſar</hi> of the Ides of <hi>March,</hi> and <hi>Caeſar</hi> was then ſlain in the Senate-Houſe: upon which the Ingenious Poet, <hi>Tho. Pecke,</hi> Eſq; thus Elegantly verſifies. <hi>Viz.</hi>
+                  </p>
+                  <q>
+                     <l>— To run that middle Race,</l>
+                     <l>
+                        <hi>Caeſar</hi> ſaid in Astrologies Diſgrace,</l>
+                     <l>The Ides of <hi>March</hi> are come: And ſo they be,</l>
+                     <l>Reply'd the Prophet; but You'l ſome<g ref="char:EOLhyphen"/>thing ſee</l>
+                     <pb n="99" facs="tcp:170582:10"/>
+                     <l>Before the Ides be paſt. His words had grounds:</l>
+                     <l>Before night, <hi>Caeſar</hi> receiv'd twenty wounds.</l>
+                  </q>
+                  <p>The Emperor <hi>Vitellius</hi> aſſign'd a day for Aſtrologers to depart <hi>Rome;</hi> they aſſigned him another, for his paſport out of the world; as is recorded by Sir <hi>Chriſt. Heydon:</hi> and he then dyed.</p>
+                  <p>Then for general Things, or acci<g ref="char:EOLhyphen"/>dents, let it be remembred, that <hi>Thales</hi> foretold a plenty of Olives, and enrich<g ref="char:EOLhyphen"/>ed himſelf thereby. <hi>Democritus</hi> and <hi>Se<g ref="char:EOLhyphen"/>stius</hi> preſaged a dearth of Olives, as is witneſſed by <hi>Pliny. Regiomantanus</hi> predicted the great Changes that hap<g ref="char:EOLhyphen"/>pened in 1588. long before the year came. <hi>Hippocrates</hi> foretold a Plague, by Aſtrologie. Mr. <hi>Booker</hi> predicted the fate of the <hi>Iriſh</hi> exactly in 1646. and the <hi>Bellum Epiſcopale</hi> that happened in <hi>England</hi> alſo in 1639. and 1640. which <hi>Epiſcopal</hi> War, was the <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> to all our Engliſh Miſeries. Nay, I could make it appear, that not only acci<g ref="char:EOLhyphen"/>dents on earth may (by Aſtrologie) be preſaged, but in Heaven alſo; As was
+<pb n="100" facs="tcp:170582:11"/>the Comet, or <hi>Stella Crinita</hi> in <hi>December.</hi> 1652. by my learned and loving Friend Mr. <hi>Joſhua Childrey;</hi> and this three Moneths before it happened. See his <hi>Sygiaſt, Inſtaur.</hi> 1653.</p>
+                  <p>This therfore may ſerve for a ſuffici<g ref="char:EOLhyphen"/>ent Refutation of the Error and Preju<g ref="char:EOLhyphen"/>dice (I was about to ſay, Ignorance) in Mt. <hi>Clarks</hi> fourth Argument.</p>
+                  <list type="syllogism">
+                     <item>
+                        <label>5. Argum.</label> 
+                        <hi>That which nouriſheth vain, and forbidden hopes and fears, is not to be practiſed, countenanced, or to<g ref="char:EOLhyphen"/>lerated.</hi>
+                     </item>
+                     <item>
+                        <hi>But ſo do Aſtrological Predictions.</hi>
+                     </item>
+                     <item>
+                        <hi>Therefore,</hi> &amp;c.</item>
+                  </list>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer, by denying the Mi<g ref="char:EOLhyphen"/>nor: For Aſtrological Predictions do not nouriſh (or cheriſh) vain and for<g ref="char:EOLhyphen"/>bidden hopes and fears, but rather forti<g ref="char:EOLhyphen"/>ſies mens minds againſt them. The Text, <hi>viz. Jer.</hi> 10. which Mr. <hi>C.</hi> cites to ſup<g ref="char:EOLhyphen"/>port his Minor, I have before proved, hath nothing at all to do with, either Aſtrologie, or Aſtrological Predictions; ſo that you ſee it proves nothing of the Minor in queſtion. However, I Anti-Argue.</p>
+                  <pb n="101" facs="tcp:170582:11"/>
+                  <list type="syllogism">
+                     <item>The Art which draws men to a Con<g ref="char:EOLhyphen"/>ſideration of the wonderful works of God, doth not nouriſh vain or forbidden fears.</item>
+                     <item>But Aſtrologie, and Aſtrological Pre<g ref="char:EOLhyphen"/>dictions, do ſo.</item>
+                     <item>
+                        <hi>Ergo,</hi> &amp;c.</item>
+                  </list>
+                  <p>That Aſtrologie draws men to the Conſideration of the wonderful works of God, is proved in the anſwer to the third Argument, both from Scripture-Authority, and Reaſon. Thus much therefore may ſerve for a Refutation of his fifth Argument.</p>
+                  <list type="syllogism">
+                     <item>
+                        <label>6 Argum.</label> 
+                        <hi>That which moſt godly and learned men upon experience have re<g ref="char:EOLhyphen"/>nounced, and repented of, that is nei<g ref="char:EOLhyphen"/>ther to be practiſed, countenanced or tolerated.</hi>
+                     </item>
+                     <item>
+                        <hi>But godly men have renounced and re<g ref="char:EOLhyphen"/>pented of their ſtudie of Aſtrologie.</hi>
+                     </item>
+                     <item>
+                        <hi>Therefore,</hi> &amp;c.</item>
+                  </list>
+                  <p>
+                     <hi>Reſp.</hi> I anſwer by denying the Major.</p>
+                  <list type="syllogism">
+                     <item>If General Councils may erre, then ſurely particular perſons, though never ſo godly or holy.</item>
+                     <pb n="102" facs="tcp:170582:12"/>
+                     <item>
+                        <hi>Sed verum prius.</hi>
+                     </item>
+                     <item>
+                        <hi>Engo &amp; poſterius.</hi>
+                     </item>
+                  </list>
+                  <p>There is no man dare aſſume the E<g ref="char:EOLhyphen"/>pithet of infallibility on earth; neither do I believe that any of thoſe whom Mr. <hi>Clark</hi> ſtiles moſt godly and learned, would have ſo done, had they been with him at the framing of his Argument.</p>
+                  <p>The word <hi>moſt,</hi> in his Argument, muſt be underſtood, either as a note of num<g ref="char:EOLhyphen"/>ber, or of excellency, and tranſcendency of knowledge and ability, to diſcern and diſtinguiſh. If of Number, I ſhall be able to out-vote him; for he hath na<g ref="char:EOLhyphen"/>med but three, <hi>viz.</hi> St. <hi>Auguſtine, Per<g ref="char:EOLhyphen"/>kins,</hi> and Mr. <hi>Briggs.</hi> If of Excellency, <hi>&amp;c.</hi> I preſume he hath made as ill a choyce as could be. For St. <hi>Auguſtine</hi> (although a learned man) was to ſeek in many things, and conſequently was ſubject to errour; witneſs his ſtiff opi<g ref="char:EOLhyphen"/>nion againſt <hi>Antipodes,</hi> (which clearly declares him ignorant of Aſtrologie, and his cenſure therefore the leſs to be re<g ref="char:EOLhyphen"/>garded) and (2.) his approbative relati<g ref="char:EOLhyphen"/>on of a Monſtrous great Tooth, proves him to be a perſon very credulous; and therefore the leſs to be heeded in his Judicial Cenſures.</p>
+                  <pb n="103" facs="tcp:170582:12"/>
+                  <p>Mr. <hi>Perkius</hi> never underſtood Aſtro<g ref="char:EOLhyphen"/>logie; and is therefore no competent Judge thereof. I grant he ſtudyed it, but never attained the excellency of it; and that was the reaſon of his quarrelling thereat. The Fox in <hi>Aeſop</hi> blamed the Grapes for being too high; but the fault was in his dwarfiſh Stature.</p>
+                  <p>Mr. <hi>Briggs</hi> was (indeed) an eminent Mathematician, and therefore the moſt comperent of the three to judge of the Controverſie. But a man may be a good Mathematician, and yet no good Aſtro<g ref="char:EOLhyphen"/>loger. I illuſtrate it thus: Mr. <hi>Clarke</hi> may be a good Divine, yet no good Ca<g ref="char:EOLhyphen"/>ſuiſt. He may be a good Divine, yet nor grounded in the univerſal point. <hi>A te, &amp; à Scientia.</hi> Every man is not born to one kind of inclination: if all were excellent in one thing, many things both uſeful and worthy, might by that means come to be neglected. It is in Philo<g ref="char:EOLhyphen"/>ſophy and the Mathematicks, as in Di<g ref="char:EOLhyphen"/>vinity; there are ſeveral parts in them, fit for the ſeveral perſons that ſtudy them. But, —
+<q>Unto our Story let us turn our Tide,</q>
+                  </p>
+                  <p>And draw toward a Concluſion. I
+<pb n="104" facs="tcp:170582:13"/>aſſert in oppoſition to Mr. <hi>Clarke,</hi> —</p>
+                  <list type="syllogism">
+                     <item>
+                        <hi>That which moſt godly and learned men upon experience have commended to the world, as worthy, laudable, and uſeful, ought to be countenanced, pra<g ref="char:EOLhyphen"/>ctiſed, and tolerated.</hi>
+                     </item>
+                     <item>
+                        <hi>But most godly and learned men have ſo commended the Science of Aſtro<g ref="char:EOLhyphen"/>logie.</hi>
+                     </item>
+                     <item>
+                        <hi>Ergo,</hi> &amp;c.</item>
+                  </list>
+                  <p>The Major no man (that is in his ſen<g ref="char:EOLhyphen"/>ces) will offer once to deny. The Mi<g ref="char:EOLhyphen"/>nor I fortifie thus. The Patriarchs them<g ref="char:EOLhyphen"/>ſelves ſtudyed Aſtrologie, and thereby commended the ſame to the world as worthy. <hi>Joſephus</hi> tells us that <hi>Abraham</hi> did not onely ſtudy, but taught the <hi>Ae<g ref="char:EOLhyphen"/>gyptians</hi> this Art. <hi>Iſaac</hi> is ſaid to have ſtudied the Heavens, when he went into the field to meditate. Upon which the learned Mr. <hi>Caryl</hi> ſaith, <hi>It is good to take field-room ſometimes to contemplate the Works of GOD. Jacob</hi> (ſaith <hi>Ori<g ref="char:EOLhyphen"/>gen</hi>) read in the Tables of Heaven, what ever things ſhould <hi>in futuro,</hi> befal his Generation. <hi>Ergo,</hi> godly and learned
+<pb n="105" facs="tcp:170582:13"/>men have commended and ſtudied this heavenly and praiſe-worthy Science.</p>
+                  <p>What I here have done, I profeſs is out of no prejudice to Mr. <hi>Clark,</hi> either as he is a Man, or Miniſter; but for a proper and plain diſcovery of the truth; after which the ſouls of many thouſands (beſides his and mine) earneſtly thirſt: and in this <hi>I</hi> hope ſome ſatisfaction will appear, as well to him as others.</p>
+                  <q>If God be God, let us follow him; if Baal, him; and let us be no longer delu<g ref="char:EOLhyphen"/>ded.</q>
+                  <div type="part">
+                     <pb n="106" facs="tcp:170582:14"/>
+                     <figure>
+                        <figDesc>horoscope diagram for John Allen</figDesc>
+                        <p>A. R. 330. <hi>d.</hi> 49. <hi>m.</hi>
+                        </p>
+                        <p>
+                           <hi>J. Allen</hi> born 1628/9. ☉ <hi>March</hi> 11. 1 <hi>h.</hi> 59 <hi>m. A.M.</hi> ☽ <hi>ad</hi> 
+                           <g ref="char:quadrine">□</g> ♀.</p>
+                        <p>Lat. 52.</p>
+                     </figure>
+                     <p>THis <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s the Nativity of Mr <hi>John Allen,</hi> Stationer, as himſelf hath made it known to ſeveral: it was rectified by di<g ref="char:EOLhyphen"/>vers eminent Accidents; from which I ſhall excerpt one onely, which I ad<g ref="char:EOLhyphen"/>judge the greateſt of all, <hi>viz. On Friday,</hi> Auguſt 21. 1657. <hi>he burnt and deſtroyed
+<pb n="107" facs="tcp:170582:14"/>in printed Books and Manuſcripts, the worth of one hundred pounds, and up<g ref="char:EOLhyphen"/>wards: in the height of this (ſtrange) a<g ref="char:EOLhyphen"/>ction, his Zeal (or Folly rather) wrought ſo furiouſly, that for haſt to deſtroy his Books, he had nearly ſet a houſe of one of his Neighbours on fire.</hi> When the man came to himſelf, (for without queſtion he was then in: a Frenſie) he reported that ſeveral Presbyterian Miniſters excited him thereunto. Whether that be true, I know not; but it is moſt certain, de<g ref="char:EOLhyphen"/>ſtroy his Books he did: and in all pro<g ref="char:EOLhyphen"/>bability (had not ſome worthy and in<g ref="char:EOLhyphen"/>genious perſons of his own profeſſion, interpoſed their Moderation and Rea<g ref="char:EOLhyphen"/>ſon) he had in the heat of his Enthuſi<g ref="char:EOLhyphen"/>aſtick Zeal, deſtroyed moſt (if not all) of his Eſtate.</p>
+                     <p>Now to ſhew Mr. <hi>Allen</hi> a Reaſon in Art for this his unhappy misfortune, (al<g ref="char:EOLhyphen"/>though he cannot deny but he was fore<g ref="char:EOLhyphen"/>warned of it near three full years before it happened unto him) <hi>I</hi> ſhall take the boldneſs to acquaint him, that then the Moon was directed to the Quartile of the Sun. And the place the direction happened in, was the Aſcendent, and
+<pb n="108" facs="tcp:170582:15"/>that in the beginning of a Tropical ſigne; perhaps one main reaſon of the violence of the action. Beſides this, it is remarkable, the very day of the acci<g ref="char:EOLhyphen"/>dent, the Moon Significatrix of the ſame, was in Quartile of the Sun, (whoſe Quartile was Promittor in the Directi<g ref="char:EOLhyphen"/>on) and of <hi>Mercury</hi> alſo, who is the particular Patron of Books: Nay, ſhe was in the Quartile-places of <hi>Saturn</hi> and <hi>Mercury</hi> in the Radix. And to prove unto him at large, that Aſtrologie is not ſo vain a ſtudy as he (poor man) conceives it, or as ſome ignorant Pro<g ref="char:EOLhyphen"/>feſſors have made it; he had at the ſame time, his part of Fortune under the Di<g ref="char:EOLhyphen"/>rection of the Sun his oppoſition. Which Directions and Tranſits, if he conſult but Books of Aſtrologie, he may plainly ſee portended the prejudice both of Perſon and Eſtate he then under<g ref="char:EOLhyphen"/>went.</p>
+                     <p>In my opinion, the man hath more reaſon to bleſs God for the happy aſſi<g ref="char:EOLhyphen"/>ſtance of the benevolent Planet <hi>Jupiter,</hi> at that time upon the place of the Di<g ref="char:EOLhyphen"/>rection, and Aſcendent of his Radix, (for the Stars, you muſt know, under God,
+<pb n="109" facs="tcp:170582:15"/>do good to men, as by his permiſſion, they do evil) then for the adviſe of thoſe Presbyterians, who (as himſelf ſaith) counſelled him to burn his Books.</p>
+                     <p>Had this Natives Father been a friend or acquaintance of mine, I ſhould never have adviſed him to a put his Son to a Bookſeller. For dealing in Books, ſeems (by his Nativity) to be no ways profi<g ref="char:EOLhyphen"/>table or fortunate to him. <hi>Mercury</hi> is in <hi>Piſces,</hi> (his detriment and fall) in the houſe of Trade, and in oppoſition to <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> Lord of the ſeventh, eigth, ninth and tenth Houſes.</p>
+                     <p>Neither would I have counſelled that he ſhould have been made a Singing<g ref="char:EOLhyphen"/>man, or been bred up to Muſick; becauſe the Moon is in Square of <hi>Venus,</hi> (the proper Significatrix thereof) which ſhould portend him to be furniſhed with a more harſh Voyce or Note, then <hi>Cice<g ref="char:EOLhyphen"/>ra</hi> is reported by <hi>Plutarch</hi> to have had.</p>
+                     <p>Nor ſhould I have perſwaded he ſhould have been made a Husband-man, becauſe <hi>Saturn</hi> the Significator of Hus<g ref="char:EOLhyphen"/>bandry, and all things of that nature, is in the fourth Houſe, in oppoſition of his Diſpoſitor. Nor yet a Divine, for <hi>Cauda
+<pb n="110" facs="tcp:170582:16"/>Draconis</hi> is in the ninth houſe, which ſometimes denotes an Atheiſt; always an uncertain perſon in Religion. A Stateſ<g ref="char:EOLhyphen"/>man he ſhould never attain to be, be<g ref="char:EOLhyphen"/>cauſe the Sun (Significantor of Dignity, Honour and Soveraignty) is in Quartile to his Aſcendent, and in Oppoſition of <hi>Saturn</hi> Lord of the tenth houſe. Theſe ſeveral things (and ſomething elſe) he is (by the Canons of Aſtrologie) abſolute<g ref="char:EOLhyphen"/>ly unfit for: for what he is fit, I leave to the Conſideration and Judgement of e<g ref="char:EOLhyphen"/>very ingenious Artiſt; but ſhall not tell him (becauſe he is ſo envious) without a convenient reward or ſatisfaction.</p>
+                     <p>About the thirty ninth year of his age, (perhaps a little ſooner) the Aſcendent of his Geniture by Direction, comes to the Oppoſition of <hi>Mars;</hi> and the Sun to the body of the Moon, and the Pleia<g ref="char:EOLhyphen"/>des. The Introductions to Nativities, tell us what ſuch Directions portend. In ſome mens Nativities, I have known them attended with ſtrange Effects; the kinds of which, in tenderneſs I forbear to acquaint Mr. <hi>Allen</hi> with; I had rather he ſhould read them himſelf, in thoſe Books they are to be found. But he (it
+<pb n="111" facs="tcp:170582:16"/>may be) believes himſelf to be a perſon of ſuch godly prudence, (according to the Adage, <hi>Sapiens Dominabitur Astris</hi>) as that he may with eaſe govern the Stars, and live above the Energie of Coeleſtial Influences. Which perſons that are illuminated with the Spirit of Grace and Truth, I grant may; and wiſh moſt heartily that he were one of them.</p>
+                     <p>I account it loſt to trouble my ſelf further herein; nor ſhould <hi>I</hi> have bu<g ref="char:EOLhyphen"/>ſied my ſelf thus far, but for to prevent the poor man of undoing himſelf (if it be poſſible) in printing Books againſt an Art he underſtands not, in the ſtrength (or weakneſs rather) of his reaſonleſs Inveteracy and Hatred thereto. For I freely profeſs, <hi>I</hi> take no pleaſure in ad<g ref="char:EOLhyphen"/>ding trouble or torment to a minde, which of it ſelf is ſufficiently terrified, tortured, and confuſed already.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="postscript">
+                  <pb n="112" facs="tcp:170582:17"/>
+                  <head>POST-SCRIPT.</head>
+                  <p>IN M. <hi>Allen's</hi> Epiſtle to M. <hi>Clarks</hi> Arguments, he aſſumes the confi<g ref="char:EOLhyphen"/>dence to acquaint his Reader that he was for ſeveral years together a Student in Astrologie; the better (as he ſup<g ref="char:EOLhyphen"/>poſes) to perſwade with him, that his skill was ſo great therein, that he might well paſs for a competent Judge there<g ref="char:EOLhyphen"/>of. I confeſs, Astrologie hath (at this day) many ſuch ignorant Students; which, like hasty Whelps, rend and tear out the Bowels of their Dam, to make way for the rotten, and too hasty birth of their own Vanities and Follies.</p>
+                  <p>But this I muſt needs acquaint the world with, that Mr. <hi>Allen's</hi> skill was ſo ſmall in the Syderal Science, that an ordinary Capacity in three days time, might attain to more knowledge therein, then he ever could, by his many years Study.</p>
+                  <pb n="113" facs="tcp:170582:17"/>
+                  <p>
+                     <hi>Nevertheleſs, I could eaſily bear with Mr.</hi> Allens <hi>weakneſs of this kind (were he not ſo highly provo<g ref="char:EOLhyphen"/>cative) in conſideration of the groſs jugling of our preſent greateſt Pre<g ref="char:EOLhyphen"/>enders to Aſtrologie: whoſe Igno<g ref="char:EOLhyphen"/>rance (to ſay no worſe) in a ſence, is a far greater blemiſh to that No<g ref="char:EOLhyphen"/>ble Science, then any of Mr.</hi> Allens <hi>addle-headed Detractions.</hi>
+                  </p>
+                  <p>For his Additions ſcrap'd and patch'd up together, here and there out of <hi>Gaſſendus,</hi> I refer the Learned Antagoniſts (but not him) to what fol<g ref="char:EOLhyphen"/>lows, and alſo to the Anſwer thereun<g ref="char:EOLhyphen"/>to, written by the learned <hi>Morinus,</hi> late of <hi>France.</hi> And for his other childiſh and unconnex'd Expreſsions, (which can ſcarcely call ſence their Dad) that his pair of Epistles are fully fraught with, I account it beneath inge<g ref="char:EOLhyphen"/>nuity to take cognizance of, as finding him (therein) within the reach of the Poets laſh against Ideots, <hi>&amp;c.</hi>
+                  </p>
+                  <pb n="114" facs="tcp:170582:18"/>
+                  <l>
+                     <hi>For Fools that rave and rage, not knowing why,</hi>
+                  </l>
+                  <l>
+                     <hi>A Scourge is far more fit, then a Reply.</hi>
+                  </l>
+                  <closer>And ſo I take leave of Mr. <hi>Al<g ref="char:EOLhyphen"/>len,</hi> and his Simplicity; wiſhing him better, and more profitable Employment, both for his Brain and Purſe.</closer>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:170582:18" rendition="simple:additions"/>
+                  <p>
+                     <hi>Gaſſendus's</hi> ARGUMENTS Againſt ASTROLOGIE, Which the Silly ANTAGONISTS So much boaſt of, Retorted and Refuted: Proving the Worth &amp; Truth of Aſtrology from his own Na<g ref="char:EOLhyphen"/>tivity, which himſelf gave to the Learned <hi>Morinus</hi> late of <hi>FRANCE.</hi>
+                  </p>
+                  <p>
+                     <hi>LONDON:</hi> Printed for <hi>Samuel Speed,</hi> at the ſigne of the Printing-Preſs in <hi>Pauls</hi> Church-yard. 1660.</p>
+               </div>
+            </front>
+            <body>
+               <div type="horoscope">
+                  <pb facs="tcp:170582:19"/>
+                  <pb n="117" facs="tcp:170582:19"/>
+                  <figure>
+                     <figDesc>horoscope diagram for Petrus Gaſſendus</figDesc>
+                     <p>
+                        <hi>Naſc. Petrus Gaſ<g ref="char:EOLhyphen"/>ſendus,</hi> 1592. <hi>Jan.</hi> 21 <hi>d. Silo Novo,</hi> 17 <hi>h.</hi> 52 <hi>m. P.M. Lat.</hi> 43 <hi>d.</hi> 52 <hi>m.</hi>
+                     </p>
+                  </figure>
+                  <p>Obiit 1655. Octob. 24.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell>Lat.</cell>
+                           <cell>Plan.</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <g ref="char:Moon">☽</g>
+                           </cell>
+                           <cell> 4</cell>
+                           <cell>30</cell>
+                           <cell> M.</cell>
+                        </row>
+                        <row>
+                           <cell>♄</cell>
+                           <cell> 0</cell>
+                           <cell>31</cell>
+                           <cell> M.</cell>
+                        </row>
+                        <row>
+                           <cell>♃</cell>
+                           <cell> 0</cell>
+                           <cell>38</cell>
+                           <cell> S.</cell>
+                        </row>
+                        <row>
+                           <cell>♂</cell>
+                           <cell> 0</cell>
+                           <cell>12</cell>
+                           <cell> M.</cell>
+                        </row>
+                        <row>
+                           <cell>♀</cell>
+                           <cell> 5</cell>
+                           <cell>40</cell>
+                           <cell> M.</cell>
+                        </row>
+                        <row>
+                           <cell>☿</cell>
+                           <cell> 2</cell>
+                           <cell>4</cell>
+                           <cell> M.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="text">
+                  <pb n="118" facs="tcp:170582:20"/>
+                  <head>
+                     <hi>Gaſſendus's Arguments</hi> Againſt ASTROLOGIE, anſwered.</head>
+                  <p>PAge 66. <hi>How many Apertiones Porta<g ref="char:EOLhyphen"/>rum, not onely in every year, but alſo in every week, nay, day?</hi> O foelicem Ar<g ref="char:EOLhyphen"/>tem ſi deſa Soli judicarent artificus! But here Mounſieur <hi>Gaſſendus</hi> his <hi>Epianogaſs Caudo Charl.</hi> Tranſlators ſhewed they were none; and not onely ignorant of the Nature, but of the time and terms of things. They knew neither what <hi>Apertiones Portarum</hi> were, nor when they happen: they do certainly appre<g ref="char:EOLhyphen"/>hend there are Flood-gates and Sluces in Heaven, from whence water is poured down by Buckets full. Thus thoſe that ſay Aſtrologers Axiomes are Arbitrary and Imaginary, that there are no ſuch things in Nature as Aſpects, do imagine
+<pb n="119" facs="tcp:170582:20"/>the vaineſt Phantoſmes and Chimaera's in the world; for I would fain know of them, what <hi>Apertiones Portarum</hi> thoſe are every day: but they cannot tell. In<g ref="char:EOLhyphen"/>deed, the Aſtrologers tell us, what <hi>A<g ref="char:EOLhyphen"/>pertiones Portarum</hi> are; the Geometer al Poſitions or Diſtances of thoſe Planets whoſe Houſes are oppoſite, which are not ſo frequent as they imagine: for be<g ref="char:EOLhyphen"/>ſides thoſe of the Moon and <hi>Saturn,</hi> ſometimes there happen none ſix weeks or two moneths together; and then thoſe of the prodigious or ſuperiour Planets, are more powerful to operate on theſe Terreſtrial Bodies; but thoſe of the inferiour, leſs conſiderable, as ex<g ref="char:EOLhyphen"/>perience doth ſufficiently teſtifie to any, but thoſe that are not to be perſwaded, though they are convinced; and though they ſee, will not underſtand.</p>
+                  <p>I think no man can be ſo unreaſon<g ref="char:EOLhyphen"/>able, as to ſuppoſe that any one will be ſo irrational, as to juſtifie all the Pleas of Aſtrologers, that many times might accept (like <hi>Gaſſendus</hi>) of ſome things to be Cauſes, that are not ſo; and <hi>Gaſſendus</hi> himſelf, or his learned Tranſlator and Tranſcriber, who deſire that their Cock<g ref="char:EOLhyphen"/>brain'd
+<pb n="120" facs="tcp:170582:21"/>Diſciples ſhould always <hi>Jurare in Verba Magiſtra,</hi> and juſtifie their ri<g ref="char:EOLhyphen"/>diculous impertinences in all the idle follies of this Book, and others of their Philoſophy. — But to anſwer his Queſtion by another: <hi>(Why Mars ſhould not rather repreſs and abate, then extimu<g ref="char:EOLhyphen"/>late and highten Watry Influence of the Pleiades; and the Moon, Mercury and Ve<g ref="char:EOLhyphen"/>nus, rather excite and encreaſe it?)</hi> We demand why Water poured into Water, and Fire put into Fire, do not produce more diſſentaneous effects, then each o<g ref="char:EOLhyphen"/>ther confronted with its Antagoniſts? or becauſe <hi>Gaſſendus</hi> his Ape is perhaps a more famous Phyſitian then a Philoſo<g ref="char:EOLhyphen"/>pher, having been Leech, as he profeſſes, to the late King (which he may as law<g ref="char:EOLhyphen"/>fully pretend to, as any quacking Chirur<g ref="char:EOLhyphen"/>geon that followed any of his ragged Re<g ref="char:EOLhyphen"/>giments) we ask why twenty Grains of Diagredium does not reſtrain a Diar<g ref="char:EOLhyphen"/>rhaea, more then Milk, being hot and dry, the other cool and moiſt? So I ſee no reaſon why <hi>Mars</hi> may not cauſe Showres by Antipathy and Diſſimilitude of Natures, being in Conjunction with the <hi>Pleiades,</hi> &amp; yet not loſe his own Ver<g ref="char:EOLhyphen"/>tue
+<pb n="121" facs="tcp:170582:21"/>of heat; for we ſee, if he meet with any conſiderable Aſpect at that time, he produces often Thunder, Lightning and Rain, an effect of both Natures: for great Mutations and Diſturbances of the Air, may as well be cauſed by Antipathy as Sympathy; and <hi>Mars</hi> may as well cauſe Rain as <hi>Saturn,</hi> though not upon the ſame reaſon, as well as a Flux proceed from Choler as Flegme; or why his Worſhip hath given a Purge, that works more then his little preſcience could foreſee, or perhaps his preſcription pre<g ref="char:EOLhyphen"/>vent.</p>
+                  <p>But whereas he talks, <hi>That there is variety of weather upon the ſame Aſpects in</hi> England <hi>and</hi> France: I anſwer, That the Stars operate in every Country ac<g ref="char:EOLhyphen"/>cording to the variety and Nature of the Clymate; for the ſame effect is not like to proceed from the Conjunction of <hi>Saturn</hi> and <hi>Sol</hi> in <hi>Aegypt,</hi> that does in <hi>England;</hi> for to predict Rain there, where is but little or ſeldom any, (from the Nature of the <hi>Solum</hi> as well as <hi>Coe<g ref="char:EOLhyphen"/>lum</hi>) were ridiculous: but where there is Conjunction of <hi>Saturn</hi> &amp; <hi>Sol,</hi> and great ſtore of Rain in <hi>England,</hi> I aver that it
+<pb n="122" facs="tcp:170582:22"/>ſhall be colder in <hi>Egypt,</hi> much more then ordinary, at the ſame time; and ſo in e<g ref="char:EOLhyphen"/>very Country, according to its Nature, the Planets have their effects, accord<g ref="char:EOLhyphen"/>ing to that not more trite then true ſay<g ref="char:EOLhyphen"/>ing, <hi>The Sun hardens Clay, and ſoftens Wax.</hi>
+                  </p>
+                  <p>
+                     <hi>Pag.</hi> 126. But to ſhew more and more his skill, or rather his ignorance in Aſtro<g ref="char:EOLhyphen"/>logie, he goes on, and ſays, <hi>Nor are we to ſay ſuch an Infant was born infected with a foul and contageous Diſeaſe, becauſe the ſixth houſe was his Horoſcope, but becauſe his Mothers lower houſe was impure and infectious.</hi>
+                  </p>
+                  <p>Is this the famous <hi>Gaſſendus!</hi> the Scribbler of thoſe Voluminous Atomes! how many impertinences are thoſe Vo<g ref="char:EOLhyphen"/>lumns ſtuffed with, when theſe few Pages are nothing elſe but a Dunghil of thoſe Vanities that he hath raked up to throw in the Faces of the Aſtrologers, and the wind blows back into his own. Is this that famous Aſtronomer, that pretends to have made ſo many Obſer<g ref="char:EOLhyphen"/>vations? this very paſſage ſhews his ig<g ref="char:EOLhyphen"/>norance and impudence, and makes it apparent to all men, that he is but a
+<pb n="123" facs="tcp:170582:22"/>meer Impoſtor, and goes about to delude the world with the opinion of his gene<g ref="char:EOLhyphen"/>ral learning, and great skill in Aſtrono<g ref="char:EOLhyphen"/>my; when as it is more clear then the light of thoſe glorious bodies, (whoſe Vertue he would obſcure) that he under<g ref="char:EOLhyphen"/>ſtands nothing in that Divine Study, but that by ſome chance he ſtumbled upon thoſe Obſervations he hath publiſhed to the world as his own: for could any man that underſtands the Aſtronomy of the <hi>Primum Mobile,</hi> or indeed ſence, ſay, <hi>That the ſixth houſe was the Horo<g ref="char:EOLhyphen"/>ſcope?</hi> Where is the Sagacity of the Probaſtical Tranſlator, that leaves out, and puts in what he pleaſes? VVas it poſſible that thou couldeſt be trap<g ref="char:EOLhyphen"/>pan'd by <hi>Gaſſendus,</hi> in theſe Fooleries? couldſt thou be over-reached by one in thine own Trade? but the truth is, there was nothing (next to their ignorance) that brought in this groſs conceit, but onely that witty quibbling (as they thought it) upon the Houſes, <hi>The ſixth Houſe and the lower Houſe;</hi> and it was a witty one indeed, and well became the mouth of a Church-man, and the Ob<g ref="char:EOLhyphen"/>ſcenity of ſuch an Epicure, as the perſon
+<pb n="124" facs="tcp:170582:23"/>of <hi>Quality.</hi> But to help the lame Dog over the ſtile, we will ſuppoſe they mean as they ſay, that the Stars are not cauſes of the Contagious Diſeaſe of a Child, nor of their ill or good Diſpoſition; but the Complexion of their ſeed, their diet and courſe of life, <hi>&amp;c.</hi> But if that were the cauſe, why are many Children pollu<g ref="char:EOLhyphen"/>ted and ſickly, whoſe Parents are very ſound; and many Children are very healthful and ſtrong, whoſe Parents are ſickly? And of this there are examples in every Family. If theſe things were true, that Children were like their Pa<g ref="char:EOLhyphen"/>rents, why was not <hi>Rehoboam</hi> as wiſe as <hi>Solomon; Hezekiah</hi> as wicked as <hi>Ahaz,</hi> or <hi>Manaſſeh</hi> as righteous as his Father? Was ever a more licentious Prince then K. <hi>Harry,</hi> or a more vertuous then his Son K. <hi>Edward?</hi> But it is conſen<g ref="char:EOLhyphen"/>taneous with the Doctrine of <hi>Epicuro Gaſſendus,</hi> to aſcribe more to good Chear, then to the Stars; and to the pleaſing of his Palate, then unto the Heavens. Now I ſee whence perſons of quality proceed, from a polluted lower houſe, which makes a corrupted upper houſe; and that vents all theſe rotten Reaſons: but
+<pb n="125" facs="tcp:170582:23"/>yet we deny not but that many times the Child is like the Parents: which pro<g ref="char:EOLhyphen"/>ceeds from the ſimilitude and harmony of Genitures, and not from the dyet. Al<g ref="char:EOLhyphen"/>ſo, that the Mothers lower houſe adds much thereunto, provided it is like Ma<g ref="char:EOLhyphen"/>dam <hi>Youngs,</hi> alias <hi>Madiſſons,</hi> Sir <hi>Pauls</hi> Ladies, Madam <hi>Drunkards,</hi> all the Tranſ<g ref="char:EOLhyphen"/>lators Friends and Acquaintance.</p>
+                  <p>But that you may ſee the Reaſons of the rottenneſs of <hi>Gaſſendus</hi> his upper houſe and lower houſe, I will adjoyn his Geniture, given from himſelf to <hi>Mori<g ref="char:EOLhyphen"/>nus.</hi>
+                  </p>
+                  <p>Here you may ſee the Malignant Pla<g ref="char:EOLhyphen"/>nets <hi>Saturn</hi> and <hi>Mars,</hi> have the chief Dominion in his Scheme; <hi>Saturn</hi> is the Lord of his Horoſcope, (conſidering his Latitude, falling into the ſixth houſe, though the ſixth houſe be not his Horo<g ref="char:EOLhyphen"/>ſcope) Peregrine, Retrograde, in his De<g ref="char:EOLhyphen"/>triment, and unfortunate in <hi>Cancer;</hi> which made his Lungs much oppreſſed with Phlegme rotten and corrupt, of an ill habit of body, very ſickly, ſubject to Catarrhes, <hi>&amp;c.</hi> That for manners, <hi>Saturn</hi> in Quartile with <hi>Mars,</hi> both in the ſame Aſpect with the Aſcendent, made
+<pb n="126" facs="tcp:170582:24"/>him of an evil diſpoſition; envious, ſuſ<g ref="char:EOLhyphen"/>pitious, revengeful; angry, peeviſh, con<g ref="char:EOLhyphen"/>tentious, in jurious, frandulent; a Lyar, a Calumniator, an Impoſtor; covetous; a Robber of other Mens Honour; a falſe Friend; a pirfidious Traytor; a notorious Hypocrite; an Atheiſt; and to ſay no worſe of him than he does of Mr. <hi>Des Cartes,</hi> though unjuſtly, a Toad ſwelled with Pride and mali<g ref="char:EOLhyphen"/>cious Venome, as you may ſee in that Book againſt <hi>de Cartes,</hi> and others of his Works.</p>
+                  <p>As he had <hi>Mercury</hi> in Sextile to <hi>Mars,</hi> and the houſe of <hi>Saturn;</hi> ſo had he a wit apt enough for miſchiefs, quarrels and contentions; ſharp in diſputations: as in Quartile to the Moon, ſo was it turbulent enough; and had <hi>Mercury</hi> not applyed to a Sextile of <hi>Jupiter</hi> alſo, he had been ſo ill natured, that he had not been ſociable: but that good Aſpect gave him ſo much wit, as hypocritically to diſſemble it, and cloak it under Zeal to Religion, and make that ſeem the ſe<g ref="char:EOLhyphen"/>verity of his Devotion, that was the mo<g ref="char:EOLhyphen"/>roſeneſs of his Nature.</p>
+                  <p>But if we go further, we ſhall finde it
+<pb n="127" facs="tcp:170582:24"/>agree with the Accidents of his life, as well as his Diſpoſition.</p>
+                  <p>About the time the <hi>Medium Coeli</hi> was directed to the Sextile of the Moon, we finde he had a Journey into <hi>Holland.</hi>
+                  </p>
+                  <p>When the <hi>Sun</hi> was directed to the Trine of <hi>Jupiter,</hi> he was made <hi>Praepoſitus Dinienſis;</hi> where for the moſt part he was non-Reſident.</p>
+                  <p>During the effects of the Sun to the Trine of <hi>Venus,</hi> and the Mid-heaven to <hi>Venus,</hi> he was made Mathematical Pro<g ref="char:EOLhyphen"/>feſſor. Upon the Direction of the Moon to the Quartile of <hi>Mars,</hi> he had an In<g ref="char:EOLhyphen"/>flammation of the Lungs. Which alſo returned upon him again, when the Horo<g ref="char:EOLhyphen"/>ſcope was directed to the body of ♂, and after to the Quartile of ♄; which pro<g ref="char:EOLhyphen"/>duced a Conſumption: in which Diſeaſe his Phyſitians (juſt ſuch as his Tranſla<g ref="char:EOLhyphen"/>tor) being over-free of his blood, at threeſcore and three, brought him to that exceſſive weakneſs, that he never reco<g ref="char:EOLhyphen"/>vered, and dyed whining, that his too much obſequiouſneſs to their preſcripti<g ref="char:EOLhyphen"/>ons, had ſnatcht him out of the world in <hi>viridi ſenectute.</hi> Take his Friend <hi>Bo<g ref="char:EOLhyphen"/>rellus</hi> Relation, and his own words, <hi>Obſ.</hi>
+                     <pb n="128" facs="tcp:170582:25"/>xi. <hi>Cent.</hi> 3. <hi>Poſſem hic viri ſemper lugendi mortem doloroſam toti</hi> Europae, <hi>imo mun<g ref="char:EOLhyphen"/>do recenſere, nimio illo remedio, ſanguineo, &amp; verba ab ejus ore deprompta referre quibus ante obitum faſſus eſt ſe nimio ob<g ref="char:EOLhyphen"/>ſequio periiſſe, &amp; cum heroe ſuo ad inferos cum viridi adhuc &amp; ſtante ſenectute deſcendiſſe:</hi> by which you may perceive, that though a Church-man, he was very unwilling to leave this Terreſtrial Para<g ref="char:EOLhyphen"/>diſe for one that was uncertain: And by his words indeed, I do not find he had much hopes of it.</p>
+                  <p>Another thing I muſt deſire you take notice of, that it is as poſſible to be kill'd as dead with a Launcet as a Poniard; and that he had ſome ſignification of vio<g ref="char:EOLhyphen"/>lence in his Nativity: for the Lord of his Aſcendent is in Quartile to <hi>Mars,</hi> and both behold the Aſcendent with e<g ref="char:EOLhyphen"/>vil Aſpect: and whoever hath that Po<g ref="char:EOLhyphen"/>ſition, I adviſe him to beware of ſuch a Phyſitian as Mr. Doctor.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
